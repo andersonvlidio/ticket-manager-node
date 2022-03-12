@@ -1,0 +1,19 @@
+{
+  "name": "ticket-manager-node",
+  "version": "1.0.0",
+  "description": "Tickect manager ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andersonvlidio/ticket-manager-node.git"
+  },
+  "author": "Anderson Lidio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andersonvlidio/ticket-manager-node/issues"
+  },
+  "homepage": "https://github.com/Andersonvlidio/ticket-manager-node#readme"
+}
